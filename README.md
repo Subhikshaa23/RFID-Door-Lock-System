@@ -1,19 +1,15 @@
 # RFID Door Lock System 
 
 ### Components 
-- Arduino nano 
+- Arduino UNO
 - RFID module
 - RFID tags
 - LCD screen and I2C module
-- SG90 servo motor 
-- 5v Buzzer
-- Door hinges × 2
-- Doot locker
-- Breadboard
+- SG90 Servo motor 
+- Door lock
 - Jumper wires
 - Iron string
 - Foam Board & Glue gun
-
 
 ### References
 - [Website - RFID Door Lock System](https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/)
