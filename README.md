@@ -11,8 +11,9 @@
 - Doot locker
 - Breadboard
 - Jumper wires
-- Foam Board
 - Iron string
+- Foam Board & Glue gun
+
 
 ### References
 - [Website - RFID Door Lock System](https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/)
