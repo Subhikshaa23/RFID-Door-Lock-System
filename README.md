@@ -36,3 +36,12 @@
 - VCC --> 5V
 - SDA --> A4
 - SCL --> A5
+
+### LED
+- LED positive --> D4
+- LED negative --> one end of the resistor
+- other end of the resistor --> GND
+
+### Keypad
+- Rows --> 5, 6, 7, 8
+- Columns --> A0, A1, A2, A3
