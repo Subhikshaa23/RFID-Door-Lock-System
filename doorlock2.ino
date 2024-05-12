@@ -105,7 +105,7 @@ void loop() {
   if (enteredPasscode == "1234") { // Change "1234" to your desired passcode
     lcd.clear();
     lcd.print("Passcode OK");
-    servo.write(180);
+    servo.write(270);
     digitalWrite(LED_PIN, HIGH);
     delay(1000);
     lcd.clear();
