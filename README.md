@@ -41,10 +41,9 @@
 - Columns --> A0, A1, A2, A3
 
 
-### References
+## References
 - [Website - RFID Door Lock System](https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/)
 - [Video Tutorial - RFID Door Lock System](https://youtu.be/GOO84CGBPz8?feature=shared)
 
 ## Contributors
-![Tamil Priya V](https://github.com/TamilPriyaV.png?size=50)](https://github.com/TamilPriyaV)
-![Subhikshaa S](https://github.com/Subhikshaa23.png?size=50)](https://github.com/Subhikshaa23)
+[![Contributors](https://contrib.rocks/image?repo=Subhikshaa23/RFID-Door-Lock-System)](https://github.com/Subhikshaa23/RFID-Door-Lock-System/graphs/contributors)
