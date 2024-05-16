@@ -1,6 +1,6 @@
 # RFID Door Lock System 
 
-### Components 
+## Components 
 - Arduino UNO
 - RFID module
 - RFID tags
@@ -25,7 +25,7 @@
 - SCK --> D13
 - SDA --> D10
 
-### LCD DISPLAY
+### LCD Display
 - GND --> GND
 - VCC --> 5V
 - SDA --> A4
