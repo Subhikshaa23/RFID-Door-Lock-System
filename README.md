@@ -10,13 +10,7 @@
 - Jumper wires
 - Iron string
 
-
-### References
-- [Website - RFID Door Lock System](https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/)
-- [Video Tutorial - RFID Door Lock System](https://youtu.be/GOO84CGBPz8?feature=shared)
-
-# Connection
-
+## Connection
 ### Servo Motor
 - Brown wire --> GND
 - Red wire --> VIN
@@ -45,3 +39,12 @@
 ### Keypad
 - Rows --> 5, 6, 7, 8
 - Columns --> A0, A1, A2, A3
+
+
+### References
+- [Website - RFID Door Lock System](https://srituhobby.com/how-to-make-a-rfid-door-lock-with-arduino/)
+- [Video Tutorial - RFID Door Lock System](https://youtu.be/GOO84CGBPz8?feature=shared)
+
+## Contributors
+![Tamil Priya V](https://github.com/TamilPriyaV.png?size=50)](https://github.com/TamilPriyaV)
+![Subhikshaa S](https://github.com/Subhikshaa23.png?size=50)](https://github.com/Subhikshaa23)
